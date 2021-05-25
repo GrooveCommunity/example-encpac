@@ -1,2 +1,6 @@
-# example-encpac
-Examplo para multi criptografia
+Técnicas utilizadas:
+
+* Criptografia de césar
+* Base64
+* RSA Security
+* Advanced Encryption Standard (AES)
